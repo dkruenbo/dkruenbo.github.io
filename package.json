@@ -1,0 +1,19 @@
+{
+  "name": "awesome-webpage",
+  "version": "1.0.0",
+  "description": "An awesome webpage with irrelevant content.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "open src/index.html"
+  },
+  "keywords": [
+    "awesome",
+    "webpage",
+    "irrelevant",
+    "content"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
